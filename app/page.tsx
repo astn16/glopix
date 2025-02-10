@@ -13,7 +13,7 @@ export default function Home() {
         <MovieList title="Popular Bengali Shows" category="bengali" />
         <MovieList title="Malayalam Hits" category="malayalam" />
         <MovieList title="Tamil Blockbusters" category="tamil" />
-        {/* <SubscriptionPlans /> */}
+        <SubscriptionPlans />
         <FAQ />
       </div>
       <Footer />
